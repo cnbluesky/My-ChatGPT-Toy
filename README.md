@@ -22,12 +22,7 @@
 
   - [ChatGPT火火兔硬改指南](https://www.bilibili.com/video/BV1wh4y1w7ZJ)
   - [ChatGPT火火兔改造教程之电路板替换](https://www.bilibili.com/video/BV1C14y1R7bu)
-
-<p align="center">
-<iframe src="//player.bilibili.com/player.html?aid=616696384&bvid=BV1wh4y1w7ZJ&cid=1216842280&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
   - [ChatGPT火火兔服务器程序安装教程 ](https://www.bilibili.com/video/BV1bp4y1w7ER)
-
 
 ## 相关资源
 
