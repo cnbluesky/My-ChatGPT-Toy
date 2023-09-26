@@ -70,7 +70,7 @@
 
 https://twitter.com/GuoXinghuaX
 
-https://space.bilibili.com/495999206)
+https://space.bilibili.com/495999206
 
 
 
