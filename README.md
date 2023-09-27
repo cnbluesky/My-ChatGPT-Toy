@@ -43,6 +43,12 @@
 
 <img width="512" src="https://guoxinghua-md-images-1256257597.cos.ap-beijing.myqcloud.com/note/20230927000519.png" alt="hohotu-robot">
 
+目前套件支持火火兔官网在售的所有版本，建议采购G6C或G6版本，若G63或G6s，需要在下单时同UP主特别说明
+
+<img width="512" src="https://guoxinghua-md-images-1256257597.cos.ap-beijing.myqcloud.com/note/20230927085208.png" alt="hohotu-robot">
+
+以上型号对比图片来自火火兔官网：http://www.alilo.com.cn/#/pages/products/detail?type=1&name=G6
+
 - 火火兔F6/F6s版本
 
 
